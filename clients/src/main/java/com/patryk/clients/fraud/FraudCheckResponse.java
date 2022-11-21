@@ -1,4 +1,4 @@
-package com.patryk.fraud;
+package com.patryk.clients.fraud;
 
 public record FraudCheckResponse(Boolean isFraudster) {
 }
